@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\MyArray\MyArray\bin\Debug\net6.0\MyArray.exe
+C:\Users\Admin\source\repos\MyArray\MyArray\bin\Debug\net6.0\MyArray.deps.json
+C:\Users\Admin\source\repos\MyArray\MyArray\bin\Debug\net6.0\MyArray.runtimeconfig.json
+C:\Users\Admin\source\repos\MyArray\MyArray\bin\Debug\net6.0\MyArray.dll
+C:\Users\Admin\source\repos\MyArray\MyArray\bin\Debug\net6.0\MyArray.pdb
+C:\Users\Admin\source\repos\MyArray\MyArray\obj\Debug\net6.0\MyArray.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\MyArray\MyArray\obj\Debug\net6.0\MyArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\MyArray\MyArray\obj\Debug\net6.0\MyArray.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MyArray\MyArray\obj\Debug\net6.0\MyArray.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MyArray\MyArray\obj\Debug\net6.0\MyArray.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MyArray\MyArray\obj\Debug\net6.0\MyArray.dll
+C:\Users\Admin\source\repos\MyArray\MyArray\obj\Debug\net6.0\refint\MyArray.dll
+C:\Users\Admin\source\repos\MyArray\MyArray\obj\Debug\net6.0\MyArray.pdb
+C:\Users\Admin\source\repos\MyArray\MyArray\obj\Debug\net6.0\MyArray.genruntimeconfig.cache
+C:\Users\Admin\source\repos\MyArray\MyArray\obj\Debug\net6.0\ref\MyArray.dll
